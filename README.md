@@ -4,9 +4,9 @@
 <br />
 
 
-- 🌱 I’m currently learning Cross-platform mobile development using Flutter and Cloud Analytics using KVM and Ubuntu.
+- 🌱 I’m currently learning Cross-platform mobile development using Flutter.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Dream big, Work hard, and Make it happen!
+- 🥅 2022 Goals: Dream big, Work hard, and Make it happen!
 - ⚡ Fun fact: I like to sing and play some instruments like guitar and piano.
 - 📫 How to reach me: wnaks5945@gmail.com
 
