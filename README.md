@@ -4,7 +4,7 @@
 <br />
 
 
-- 🌱 I’m currently learning Cross-platform mobile development using Flutter.
+- 🌱 I’m a Flutter & Front-end developer.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Dream big, Work hard, and Make it happen!
 - ⚡ Fun fact: I like to sing and play some instruments like guitar and piano.
