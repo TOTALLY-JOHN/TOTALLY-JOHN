@@ -1,4 +1,4 @@
-### Hi there, I'm Jihwan Jeong - a.k.a [John] 👋
+### Hi there, I'm Jihwan Jeong - a.k.a [Totally John] 👋
 
 ### I enjoy learning a new technology and making better applications with my teammates together. All the time, I remind myself 'Dream big, Work hard, and Make it happen.
 <br />
@@ -6,9 +6,11 @@
 
 - 🌱 I’m a Flutter & Front-end developer.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Dream big, Work hard, and Make it happen!
+- 🥅 2024 Goals: Dream big, Work hard, and Make it happen!
 - ⚡ Fun fact: I like to sing and play some instruments like guitar and piano.
 - 📫 How to reach me: wnaks5945@gmail.com
+- Linkedin: https://www.linkedin.com/in/jihwan-jeong-922724192/
+- Youtube Channel: https://www.youtube.com/channel/UCQWAVCCTbgpzErJvScl2Jpg
 
 <br />
 
